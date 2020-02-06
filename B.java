@@ -1,0 +1,5 @@
+clsdd B{
+public static void main(String asa[]){
+System.out.println("hello");
+}
+}
